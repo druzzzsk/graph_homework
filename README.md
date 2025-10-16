@@ -17,3 +17,7 @@
 # Task 2
 
 ![Screenshot of task 1 on LeetCode](screenshots/task_2.jpg)
+
+# Task 3
+
+![Screenshot of task 1 on LeetCode](screenshots/task_3.jpg)
