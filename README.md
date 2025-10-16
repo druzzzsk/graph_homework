@@ -8,10 +8,15 @@
 - Пупейко Дарья
 - Нестерова Полина
 - Литвинова Виктория
+- Базуе Роман
 
 # Task 1
 
 ![Screenshot of task 1 on LeetCode](screenshots/task_1.png)
+
+# Task 1 Extra
+
+![Screenshot of task 1 on LeetCode](screenshots/task_1_extra.png)
 
 # Task 2
 
