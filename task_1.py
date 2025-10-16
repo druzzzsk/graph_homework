@@ -3,8 +3,6 @@ from typing import List
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
         rows = len(image)
-        if rows == 0:
-            return image
         cols = len(image[0])
         
         original_color = image[sr][sc]
