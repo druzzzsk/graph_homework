@@ -10,4 +10,6 @@
 -
 -
 
-`Скриншоты с Leetcode:`
+# Task 1
+
+![Screenshot of task 1 on LeetCode](screenshots/task_1.png)
