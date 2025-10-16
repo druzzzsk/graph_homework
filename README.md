@@ -14,6 +14,10 @@
 
 ![Screenshot of task 1 on LeetCode](screenshots/task_1.png)
 
+# Task 1 Extra
+
+![Screenshot of task 1 on LeetCode](screenshots/task_1_extra.png)
+
 # Task 2
 
 ![Screenshot of task 1 on LeetCode](screenshots/task_2.jpg)
